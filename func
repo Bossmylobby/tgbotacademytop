@@ -5,7 +5,7 @@ import json
 
 
 # Токен вашего бота
-API_TOKEN = '7722230317:AAGExQbJExDCUbFTnuXeRNP1b906b5oKp7U'
+API_TOKEN = 'your_token'
 
 # Создаем объект бота
 bot = telebot.TeleBot(API_TOKEN)
